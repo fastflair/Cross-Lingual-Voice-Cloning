@@ -6,4 +6,3 @@ librosa
 scipy
 Unidecode
 pillow
-denoiser
